@@ -15,7 +15,7 @@ The Music Player Mobile Application is a comprehensive and feature-rich applicat
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![ss](asset\Screenshots\ss.png)
 
 
 ## API Reference
