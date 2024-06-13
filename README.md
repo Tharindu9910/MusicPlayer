@@ -15,7 +15,7 @@ The Music Player Mobile Application is a comprehensive and feature-rich applicat
 
 ## Screenshots
 
-![ss](asset\Screenshots\ss.png)
+![ss](asset/Screenshots/ss.png)
 
 
 ## API Reference
@@ -93,7 +93,7 @@ Run the following command in your terminal:
 ```
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+MIT
 
 
 ## 🔗 Links
